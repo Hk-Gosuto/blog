@@ -5,8 +5,12 @@
     <url>/2021/01/12/test-code/</url>
     <content><![CDATA[<h1 id="测试代码文章"><a href="#测试代码文章" class="headerlink" title="测试代码文章"></a>测试代码文章</h1><figure class="highlight c#"><table><tr><td class="code"><pre><span class="line">Console.Writeln(<span class="string">&quot;hello world&quot;</span>);</span><br></pre></td></tr></table></figure>
 ]]></content>
+      <categories>
+        <category>后端</category>
+      </categories>
       <tags>
         <tag>dotnet</tag>
+        <tag>web</tag>
       </tags>
   </entry>
   <entry>
